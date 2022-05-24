@@ -1,5 +1,3 @@
-from urllib import response
-from weakref import proxy
 import requests
 from bs4 import BeautifulSoup
 
